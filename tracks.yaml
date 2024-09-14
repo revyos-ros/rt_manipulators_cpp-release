@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/rt_manipulators_cpp-release
+release_repo_url: git@github.com:revyos-ros/rt_manipulators_cpp-release.git
 tracks:
   foxy:
     actions:
